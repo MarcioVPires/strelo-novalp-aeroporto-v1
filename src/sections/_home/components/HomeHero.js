@@ -61,7 +61,7 @@ export default function HomeHero() {
                   {` ZONE`}
                 </Box>
               </Typography>
-
+              <p>Para pou</p>
               <Typography sx={{ color: 'text.secondary' }}>
                 The ZONE is built on top of MUI, a powerful library that provides flexible,
                 customizable, and easy-to-use components.

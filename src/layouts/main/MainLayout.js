@@ -7,7 +7,7 @@ import { Box } from '@mui/material';
 import { HEADER } from 'src/config-global';
 //
 import Header from './header/Header';
-import Footer from './footer/Footer';
+import { Footer } from '../../strelo_sections/Home';
 
 // ----------------------------------------------------------------------
 
