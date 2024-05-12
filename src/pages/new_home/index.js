@@ -1,7 +1,7 @@
 // next
 import Head from 'next/head';
 // layouts
-import MainLayout from 'src/layouts/main';
+import MainLayout from 'src/strelo_layout/index';
 // sections
 import HomeView from 'src/strelo_sections/Home/view';
 
